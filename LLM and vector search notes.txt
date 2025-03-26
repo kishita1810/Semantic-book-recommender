@@ -1,0 +1,21 @@
+Basic building block: Word embedding
+
+Word embedding: Grouping words that similar and creating distance between words that are different
+
+We do it using word embedding models. For example, word2vec skipgram architectures
+
+There are some words which have different meaning based on the context of the sentence
+For example, 1. He checked his bank account, 2. The river bank is was peaceful.
+Here the word bank has different meaning based on the context of the sentence.
+Word embeddings doesn't take into account the context.
+Hence, transformers are used to understand the word and it's context. They are used in all the latest LLM models like OpenAI, Claude, etc.
+
+Transformers use - Word embeddings + positional vectors (position of the word in the sentence)
+Self attention mechanism. 
+
+We will be using encoder models.
+Model: RoBERTa 
+
+Vector Indexing: Trade of between speed and accuracy
+
+Lang Chain: Superpowerful framework available in python to work with large language models
