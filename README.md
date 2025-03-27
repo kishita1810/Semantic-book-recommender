@@ -60,7 +60,7 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/yourusername/sentiment-book-recommender.git](https://github.com/kishita1810/Semantic-book-recommender.git)
+    git clone https://github.com/kishita1810/Semantic-book-recommender.git
     cd sentiment-book-recommender
     ```
 
