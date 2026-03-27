@@ -5,6 +5,7 @@ The **Sentiment Book Recommender** project leverages **Large Language Models (LL
 ## Demo Video
 
 Watch the full demo on YouTube
+
 [Video Link](https://youtu.be/HZuGZOOMX1I?si=EKFnyRvm29qPEfDZ)
 
 ## Project Structure
