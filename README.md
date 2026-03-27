@@ -2,6 +2,10 @@
 
 The **Sentiment Book Recommender** project leverages **Large Language Models (LLMs)** to recommend books based on their description, category, and tone (e.g., happy, sad, etc.). This project demonstrates how to use LLMs in combination with vector search, text classification, and sentiment analysis to build a sophisticated recommendation system.
 
+## Demo Video
+
+[Watch the full demo on YouTube](https://youtu.be/HZuGZOOMX1I?si=EKFnyRvm29qPEfDZ)
+
 ## Project Structure
 
 The project is divided into several parts to explain each component and its functionality clearly:
